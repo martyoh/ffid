@@ -1,0 +1,17 @@
+Package: ffid
+Type: Package
+Title: Save Reversing the Order of Arguments in setdiff
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Martin", "O'Hely",
+      email = "martin.ohely@deakin.edu.au",
+      role = c("aut", "cre")
+    )
+  )
+Description: This provides a function setffid which is setdiff with
+    its arguments reversed
+License: GPL 3.0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
